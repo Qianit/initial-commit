@@ -46,6 +46,10 @@ nav .container {
   color: white;
 }
 
+.nav__links a:hover {
+  color: grey;
+}
+
 /* General Section CSS */
 section {
   padding: 90px;
